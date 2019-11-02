@@ -1,0 +1,39 @@
+#post{
+    width:600px;
+    height: 600px;
+    background-color: white;
+}
+
+body{
+    margin: auto;
+    background-color: black;
+}
+.header{
+    height: 10%;
+    background:white;
+}
+.header div{
+    float:left;
+}
+/*top areas--------------------------------------------------------------------*/
+#first{10%;margin-top:10px;margin-left:15px;}
+#second{10%;margin-top:10px;margin-left:5px;}
+#third{float:right;margin-right:15px;margin-top:15px;}
+/*top area end--------------------------------------------------------*/
+.image{
+    height:50%;
+}
+.footer{
+    background:white;
+    height:40%;
+}
+p{
+    margin:0px;
+}
+
+.fa-heartbeat:before{
+    float:right;
+}
+.footer p{
+    margin-right:15px;
+}
